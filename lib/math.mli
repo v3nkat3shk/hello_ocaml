@@ -1,0 +1,1 @@
+val factorial : int -> int
